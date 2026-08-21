@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Tyler 👾
 
-<!--
-**Tyler-Gushue/Tyler-Gushue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Focusing on Backend Systems & Cybersecurity
 
-Here are some ideas to get you started:
+Final-year Computer Science student @ Dalhousie University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```text
+Currently interested in:
+- backend architecture & API design
+- application security & authentication
+- full-stack web development (Node.js & PHP)
+- exploring 2027 Software Engineering roles
