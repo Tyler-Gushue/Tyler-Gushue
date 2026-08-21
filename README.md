@@ -2,7 +2,7 @@
 
 Full-Stack Developer | Focusing on Backend Systems & Cybersecurity
 
-Final-year Computer Science student @ Dalhousie University
+Final-Semester Computer Science student @ Dalhousie University
 
 ---
 
