@@ -1,4 +1,4 @@
-### Hey, I'm Tyler 👾
+### Hi, I'm Tyler 
 
 **Full-Stack Developer** | Building reliable backend systems, web applications, and desktop utilities.  
 Final-Semester CS Student at **Dalhousie University** *(Graduating Dec 2026)*  
