@@ -1,6 +1,6 @@
 ### Hi, I'm Tyler
 
-**Full-Stack Developer Who Leans Backend**
+**Full-Stack Developer Who Leans Backend**<br>
 I love building secure, reliable APIs and the systems behind things people actually use.
 Final-semester CS student at **Dalhousie University** (graduating Dec 2026), finishing certificates in
 Web & Mobile Development and Cyber & Network Security.
@@ -12,8 +12,8 @@ Web & Mobile Development and Cyber & Network Security.
 - **Up next:** likely a security project, such as a log analyzer for Shiny-Quest.
 
 #### Tools I reach for
-**Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose<br>
-**Frontend:** React, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
+**Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose, Firebase(Firestore)<br>
+**Frontend:** React, React Native, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
 
 #### Find Me
 [LinkedIn](https://www.linkedin.com/in/tyler-g-0544b9350)
