@@ -12,7 +12,7 @@ Web & Mobile Development and Cyber & Network Security.
 - **Up next:** likely a security project, such as a log analyzer for Shiny-Quest.
 
 #### Tools I reach for
-**Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose
+**Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose<br>
 **Frontend:** React, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
 
 #### Find Me
