@@ -1,14 +1,19 @@
-### Hi, I'm Tyler 
+### Hi, I'm Tyler
 
-**Full-Stack Developer** | Building reliable backend systems, web applications, and desktop utilities.  
-Final-Semester CS Student at **Dalhousie University** *(Graduating Dec 2026)*  
-📍 Halifax, NS
+**Full-Stack Developer Who Leans Backend**
+I love building secure, reliable APIs and the systems behind things people actually use.
+Final-semester CS student at **Dalhousie University** (graduating Dec 2026), finishing certificates in
+Web & Mobile Development and Cyber & Network Security.
 
----
+📍 Halifax, NS · **Open to software, full-stack, or cybersecurity roles starting January 2027**
 
-```text
-Currently interested in:
-- Backend Architecture & REST API Design (Node.js, Express, PHP, PostgreSQL)
-- Desktop & Utility Tooling (Python, Electron)
-- Full-Stack Web Development (React, PHP, Modern JavaScript)
-- Open to 2027 Software Engineering & Full-Stack roles
+#### Working on now
+- **[Shiny-Quest](https://github.com/Tyler-Gushue/Shiny-Quest)**: a social app for Pokémon shiny hunters that I'm building solo to learn new skills and have fun.
+- **Up next:** likely a security project, such as a log analyzer for Shiny-Quest.
+
+#### Tools I reach for
+**Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose
+**Frontend:** React, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
+
+#### Find Me
+[LinkedIn](https://www.linkedin.com/in/tyler-g-0544b9350)
