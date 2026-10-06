@@ -14,6 +14,3 @@ Web & Mobile Development and Cyber & Network Security.
 #### Tools I reach for
 **Backend:** Node.js, Express, PHP, PostgreSQL, MongoDB, Mongoose, Firebase(Firestore)<br>
 **Frontend:** React, React Native, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
-
-#### Find Me
-[LinkedIn](www.linkedin.com/in/tylergushue)
