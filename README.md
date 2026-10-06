@@ -16,4 +16,4 @@ Web & Mobile Development and Cyber & Network Security.
 **Frontend:** React, React Native, JavaScript, HTML/CSS, Bootstrap, Tailwind, TanStack Query
 
 #### Find Me
-[LinkedIn](https://www.linkedin.com/in/tyler-g-0544b9350)
+[LinkedIn](www.linkedin.com/in/tylergushue)
